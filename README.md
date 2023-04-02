@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub)
+- Solution URL: [@Frontend Mentor]([https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub](https://www.frontendmentor.io/solutions/responsive-solution-for-bookmark-landing-page-vanilla-js-WzTkPU9qaE))
 - Live Site URL: [@Github Pages](https://ragabogaa.github.io/bookmark)
 
 ### Built with
